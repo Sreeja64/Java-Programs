@@ -22,5 +22,6 @@ class Sort1
 		System.out.println("The sorted array is ");
 		for(int i=0;i<4;i++)
 			System.out.print(a[i]+" ");
+		System.out.println("Changed");
 	}
 }
